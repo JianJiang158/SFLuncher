@@ -1,0 +1,5 @@
+D:\!Desktop\MyLauncher\LauncherApp\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\!Desktop\MyLauncher\LauncherApp\obj\Debug\net10.0-windows\App.g.cs
+D:\!Desktop\MyLauncher\LauncherApp\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\!Desktop\MyLauncher\LauncherApp\obj\Debug\net10.0-windows\LauncherApp_MarkupCompile.cache
+D:\!Desktop\MyLauncher\LauncherApp\obj\Debug\net10.0-windows\LauncherApp_MarkupCompile.lref
